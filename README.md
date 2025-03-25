@@ -1,15 +1,4 @@
 # Kakao Macro & Message Sender
----
-## 사용 영상
-
-### 1. 단일 메시지 전송
-[![단일 메시지 전송](https://example.com/single_message.gif)](https://www.youtube.com/watch?v=VIDEO_ID_1)
-
-### 2. 다중 메시지 전송
-[![다중 메시지 전송](https://example.com/multi_message.gif)](https://www.youtube.com/watch?v=VIDEO_ID_2)
-
-### 3. 매크로 중단
-[![매크로 중단](https://example.com/stop_macro.gif)](https://www.youtube.com/watch?v=VIDEO_ID_3)
 
 ---
 
