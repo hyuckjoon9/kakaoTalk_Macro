@@ -1,6 +1,15 @@
 # Kakao Macro & Message Sender
+---
+## 사용 영상
 
-[![프로그램 사용 영상](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+### 1. 단일 메시지 전송
+[![단일 메시지 전송](https://example.com/single_message.gif)](https://www.youtube.com/watch?v=VIDEO_ID_1)
+
+### 2. 다중 메시지 전송
+[![다중 메시지 전송](https://example.com/multi_message.gif)](https://www.youtube.com/watch?v=VIDEO_ID_2)
+
+### 3. 매크로 중단
+[![매크로 중단](https://example.com/stop_macro.gif)](https://www.youtube.com/watch?v=VIDEO_ID_3)
 
 ---
 
@@ -16,8 +25,8 @@
 ## 사용 방법
 
 1. **좌표 설정**  
-   프로그램 내의 **"카톡 대화창 좌표 얻기"** 버튼을 클릭한 후, 대화창에서 텍스트를 입력하는 곳을 클릭하여 좌표를 설정합니다.
-
+   프로그램 내의 **"카톡 대화창 좌표 얻기"** 버튼을 클릭한 후, 아래 이미지와 같은 곳을 클릭하여 좌표를 설정합니다.
+<img src="https://github.com/user-attachments/assets/b3800154-0937-409d-b62d-c19f2961fa28" width="400"/><br>
 2. **메시지 입력 및 전송**  
    - **단일 메시지 전송:**  
      한 개의 메시지를 입력하고 반복 횟수를 지정한 후, **"메시지 전송"** 버튼을 눌러 자동 전송을 시작합니다.
