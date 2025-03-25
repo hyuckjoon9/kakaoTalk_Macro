@@ -24,7 +24,7 @@
 
 1. **좌표 설정**  
    프로그램 내의 **"카톡 대화창 좌표 얻기"** 버튼을 클릭한 후, 아래 이미지와 같은 곳을 클릭하여 좌표를 설정합니다.  
-   <img src="https://github.com/user-attachments/assets/b3800154-0937-409d-b62d-c19f2961fa28" width="400"/><br>
+   <img src="https://github.com/user-attachments/assets/ec305a16-dd7a-4c0f-a606-499e0afbfceb" width="400"/><br>
 
 2. **메시지 입력 및 전송**  
    - **단일 메시지 전송:**  
