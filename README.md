@@ -37,13 +37,12 @@ pyinstaller app.py
 3. 메시지와 반복 횟수 입력 (최소 1회)
 4. **메시지 전송** 버튼 클릭
 
-![좌표 캡처 화면](screenshots/capture.png) <!-- placeholder -->
+<img src="https://github.com/user-attachments/assets/c03bbecd-fcf7-43df-b985-db5ca0b27daa" width="50%">
 
 ### 탭 1 — 단일 메시지 전송
 
 동일한 메시지를 지정한 횟수만큼 반복 전송합니다.
 
-![단일 메시지 전송](screenshots/single.png) <!-- placeholder -->
 
 ### 탭 2 — 다중 메시지 전송
 
@@ -56,8 +55,6 @@ pyinstaller app.py
 ```
 
 위와 같이 입력하면 3개 메시지가 순서대로 전송되며, 반복 횟수만큼 반복합니다.
-
-![다중 메시지 전송](screenshots/multi.png) <!-- placeholder -->
 
 ### 상태바
 
