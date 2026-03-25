@@ -1,0 +1,38 @@
+# 설정 파일 (민감 정보 포함)
+config.py
+CLAUDE.md
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 가상환경
+venv/
+.venv/
+env/
+.env/
+
+# PyInstaller 빌드 결과물
+*.spec
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 로그
+*.log
